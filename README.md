@@ -3,7 +3,7 @@
 ## Hi there 👋
 <!--<img align="center" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f525cd35-ade5-463f-9f1c-deae3cb4cbf8">-->
 <div align="center">
- <img src="https://github.com/user-attachments/assets/f525cd35-ade5-463f-9f1c-deae3cb4cbf8" width="300" alt="GIF">
+ <img src="https://github.com/user-attachments/assets/f7cd1ef8-d76f-45ff-8ae5-70a51c11c55b" width="300" alt="GIF">
 </div>
 
 <!--

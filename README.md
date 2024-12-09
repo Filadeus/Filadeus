@@ -1,10 +1,8 @@
-<!--[![Header](![image](![stacked-waves-haikei](https://github.com/user-attachments/assets/17460d77-b2bd-449b-a11f-c30262bf0ae7)))](https://github.com/Filadeus)-->
 ![github-header-image](https://github.com/user-attachments/assets/18aeeb70-6cad-41b1-85ee-7a27b0580e77)
 
-
 ## Hi there 👋
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f525cd35-ade5-463f-9f1c-deae3cb4cbf8">
 
-[![Filadeus GitHub stats](https://github-readme-stats.vercel.app/api?username=Filadeus)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Filadeus/Filadeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

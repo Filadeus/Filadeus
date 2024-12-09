@@ -6,7 +6,7 @@
  <img src="https://github.com/user-attachments/assets/f7cd1ef8-d76f-45ff-8ae5-70a51c11c55b" width="300" alt="GIF">
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/danylo-yefimovskyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

@@ -1,5 +1,6 @@
 <!--[![Header](![image](![stacked-waves-haikei](https://github.com/user-attachments/assets/17460d77-b2bd-449b-a11f-c30262bf0ae7)))](https://github.com/Filadeus)-->
-![Header](https://github.com/user-attachments/assets/17460d77-b2bd-449b-a11f-c30262bf0ae7)
+![github-header-image](https://github.com/user-attachments/assets/18aeeb70-6cad-41b1-85ee-7a27b0580e77)
+
 
 ## Hi there 👋
 

@@ -1,4 +1,5 @@
-[![Header](![image](![stacked-waves-haikei](https://github.com/user-attachments/assets/17460d77-b2bd-449b-a11f-c30262bf0ae7)))](https://github.com/Filadeus)
+<!--[![Header](![image](![stacked-waves-haikei](https://github.com/user-attachments/assets/17460d77-b2bd-449b-a11f-c30262bf0ae7)))](https://github.com/Filadeus)-->
+![Header](https://github.com/user-attachments/assets/17460d77-b2bd-449b-a11f-c30262bf0ae7)
 
 ## Hi there 👋
 

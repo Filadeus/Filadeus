@@ -6,12 +6,16 @@
  <img src="https://github.com/user-attachments/assets/f7cd1ef8-d76f-45ff-8ae5-70a51c11c55b" width="300" alt="GIF">
 </div>
 
+    
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/danylo-yefimovskyi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
+     
 - 🔭 I’m currently working on several projects both on private and public repos (like [this](https://github.com/Filadeus/efimio-drupal) one for example).
 - 🌱 I’m currently learning PCB Design, CompTIA A+, Windows Internals.
+
+       
 - 📫 How to reach me: [![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.com/users/danilefimovskii), [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/efimio618/)

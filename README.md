@@ -1,5 +1,8 @@
+[![MasterHead](![image](https://github.com/user-attachments/assets/6bd5f2e7-7de0-49dc-a7e8-146f338d75ce))](https://github.com/Filadeus)
+
 ## Hi there 👋
 
+[![Filadeus GitHub stats](https://github-readme-stats.vercel.app/api?username=Filadeus)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Filadeus/Filadeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

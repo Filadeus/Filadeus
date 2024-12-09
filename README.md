@@ -14,6 +14,6 @@
 
 - 🔭 I’m currently working on several projects both on private and public repos (like [this](https://github.com/Filadeus/efimio-drupal) one for example).
 - 🌱 I’m currently learning PCB Design, CompTIA A+, Windows Internals.
-- 📫 How to reach me: [Discord](https://discord.com/users/danilefimovskii), [![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.com/users/danilefimovskii), [Instagram](https://www.instagram.com/efimio618/)
+- 📫 How to reach me: [![Discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discord.com/users/danilefimovskii), [Instagram](https://www.instagram.com/efimio618/), [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/efimio618/)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
